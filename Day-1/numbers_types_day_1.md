@@ -22,8 +22,9 @@ sub_int2 = 5
 print(sub_int1-sub_int2)
 ```
 
-</br></br>
+</br>
 
+# Datatype: Float
 **Type:** `<class 'float'>` </br>
 **Examples,**
 

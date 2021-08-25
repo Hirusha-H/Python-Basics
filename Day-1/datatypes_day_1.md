@@ -1,5 +1,5 @@
 # Datatype: Integer
-**Type:** `<class 'int'>`
+**Type:** `<class 'int'>` </br>
 **Examples,**
 
 1. Printing type of value using `type()` function.
@@ -14,7 +14,6 @@ int_1 = 1
 int_2 = 2
 print(int_1+int_2)
 ```
-Output: 3
 
 3. Subtraction with ints
 ```python
@@ -22,11 +21,10 @@ sub_int1 = 10
 sub_int2 = 5
 print(sub_int1-sub_int2)
 ```
-Output: 5
 
+</br></br>
 
-
-**Type:** `<class 'float'>`
+**Type:** `<class 'float'>` </br>
 **Examples,**
 
 1. Printing type of value using `type()` function.

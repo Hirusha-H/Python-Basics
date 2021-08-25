@@ -31,8 +31,7 @@ print(to_uppper.lower())
 ```
 
 5. Replace character in a string
-Below code'll replace 'replace this with x' with 'x'
-
+Below code'll replace 'replace this with x' with 'x'  </br>
 **Arguments**,
 - `oldvalue` - This is the old string that you want to replace
 - `newvalue` - This is the new string that you want to replace with old string
@@ -42,7 +41,7 @@ to_replace_str = "Hey, replace this with x"
 print(to_replace_str.replace("replace this with x", "x"))
 ```
 
-6. Find text in a string
+6. Find text in a string  </br>
 **Arguments**,
 - `value` - This is the string that you want to sear for
 
@@ -69,7 +68,7 @@ lower_str = "wassup?"
 print(lower_str.islower())
 ```
 
-10. Check if string startswith  a specific character
+10. Check if string startswith  a specific character </br>
 **Arguments**,
 - `value` - This is the string that you want to check if the string starts with
 
@@ -78,7 +77,7 @@ startswith_str = "Hello"
 print(startswith_str.startswith("H")) # This'll print True if yes else it'll print False
 ```
 
-11. Check if string endswith  a specific character
+11. Check if string endswith  a specific character </br>
 **Arguments**,
 - `value` - This is the string that you want to check if the string ends with
 
@@ -88,4 +87,4 @@ print(endswith_str.endswith("y"))
 ```
 
 
-**Thats's all for today (i'll teach about others in day-2)
+***Thats's all for today (i'll teach about others in day-2)***
